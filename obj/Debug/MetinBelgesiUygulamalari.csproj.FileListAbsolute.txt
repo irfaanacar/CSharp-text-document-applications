@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\bin\Debug\MetinBelgesiUygulamalari.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\bin\Debug\MetinBelgesiUygulamalari.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\bin\Debug\MetinBelgesiUygulamalari.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\obj\Debug\MetinBelgesiUygulamalari.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\obj\Debug\MetinBelgesiUygulamalari.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\obj\Debug\MetinBelgesiUygulamalari.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\obj\Debug\MetinBelgesiUygulamalari.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\obj\Debug\MetinBelgesiUygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\obj\Debug\MetinBelgesiUygulamalari.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\MetinBelgesiUygulamalari\obj\Debug\MetinBelgesiUygulamalari.pdb
